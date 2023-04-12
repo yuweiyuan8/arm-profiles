@@ -21,6 +21,9 @@ phosh
 phosh-mobile-settings
 >pinephone phosh-antispam
 >pinephone gnome-calls
+>fajita phosh-antispam
+>fajita gnome-calls
+>fajita mobile-config-firefox
 chatty
 mmsd-tng
 #>pinephone epiphany

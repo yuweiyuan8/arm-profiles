@@ -14,3 +14,9 @@ irqbalance.service
 >pinephone pinephonepro-post-install.service
 >pinephone ModemManager.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
+>fajita qrtr-ns.service
+>fajita rmtfs.service
+>fajita pd-mapper.service
+>fajita tqftpserv.service
+>fajita pinephone-post-install.service
+>fajita ModemManager.service
