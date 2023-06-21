@@ -10,7 +10,7 @@
 #>pinephone anbox
 #>pinephone waydroid-image
 #>pinephone waydroid
-#>pinephone mobile-config-firefox
+>pinephone mobile-config-firefox
 >pinephone vvmplayer
 #>pinephone eg25-autorestart
 
@@ -78,7 +78,6 @@ papirus-maia-icon-theme
 
 # Other packages
 bluez
-pulseaudio-bluetooth
 pamac-gtk
 >pinephone pamac-mobile-integration
 pamac-gnome-integration
@@ -103,3 +102,4 @@ gpsd
 glibc-locales
 wireplumber
 gst-plugin-pipewire
+xdg-desktop-portal-gtk # to fix slow program startup

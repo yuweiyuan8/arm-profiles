@@ -10,7 +10,7 @@
 #>pinephone anbox
 #>pinephone waydroid-image
 #>pinephone waydroid
-#>pinephone mobile-config-firefox
+>pinephone mobile-config-firefox
 >pinephone vvmplayer
 #>pinephone eg25-autorestart
 
@@ -28,7 +28,6 @@ powersupply
 >pinephone purple-mm-sms
 purple-matrix
 purple-telegram
-kgx
 sound-theme-phosh
 #squeekboard
 megapixels
@@ -37,6 +36,7 @@ xdg-user-dirs
 gnome-contacts-mobile
 gnome-control-center-mobile
 #gnome-software-mobile
+gnome-console
 gnome-usage-mobile
 gnome-sound-recorder
 gnome-initial-setup-mobile
@@ -47,7 +47,7 @@ wake-mobile
 # Gnome packages
 gdm
 #gnome-authenticator
-gnome-calculator-mobile
+gnome-calculator
 gnome-clocks
 gnome-keyring
 gnome-maps
