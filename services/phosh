@@ -21,3 +21,4 @@ systemd-oomd.service
 >fajita tqftpserv.service
 >fajita pinephone-post-install.service
 >fajita ModemManager.service
+>fajita iio-sensor-proxy.service

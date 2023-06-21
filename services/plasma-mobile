@@ -1,4 +1,4 @@
-#sshd.service
+sshd.service
 sddm.service
 NetworkManager.service
 bluetooth.service
@@ -20,3 +20,4 @@ irqbalance.service
 >fajita tqftpserv.service
 >fajita pinephone-post-install.service
 >fajita ModemManager.service
+>fajita iio-sensor-proxy.service

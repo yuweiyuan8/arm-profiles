@@ -4,7 +4,9 @@
 >pinephone modemmanager-pp
 >pinephone plasma-dialer
 >pinephone noto-fonts-cjk # needed to display * and # in dialer
-
+>fajita plasma-dialer
+>fajita noto-fonts-cjk
+>fajita protobuf-c
 # OpenGLES qt packages
 qt5-es2-base
 qt5-es2-declarative
