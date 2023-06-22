@@ -20,6 +20,13 @@ gnome-shell-mobile-devel
 gtk3-mobile
 >pinephone phosh-antispam
 >pinephone gnome-calls
+>fajita phosh-antispam
+>fajita gnome-calls
+>fajita epiphany
+>fajita purple-mm-sms
+>fajita mobile-config-firefox
+>fajita vvmplayer
+>fajita pamac-mobile-integration
 chatty
 mmsd-tng
 #>pinephone epiphany
@@ -80,7 +87,6 @@ pamac-gtk
 >pinephone pamac-mobile-integration
 pamac-gnome-integration
 portfolio-file-manager
-iio-sensor-proxy
 networkmanager
 networkmanager-pptp
 networkmanager-openvpn

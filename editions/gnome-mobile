@@ -13,7 +13,13 @@
 >pinephone mobile-config-firefox
 >pinephone vvmplayer
 #>pinephone eg25-autorestart
-
+>fajita phosh-antispam
+>fajita gnome-calls
+>fajita epiphany
+>fajita purple-mm-sms
+>fajita mobile-config-firefox
+>fajita vvmplayer
+>fajita pamac-mobile-integration
 # Gnome Mobile packages
 gnome-shell-mobile
 #gnome-shell-extensions 
@@ -80,7 +86,6 @@ pamac-gtk
 >pinephone pamac-mobile-integration
 pamac-gnome-integration
 portfolio-file-manager
-iio-sensor-proxy
 networkmanager
 networkmanager-pptp
 networkmanager-openvpn
