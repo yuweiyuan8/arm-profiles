@@ -31,9 +31,9 @@ mmsd-tng
 #>pinephone epiphany
 evince-mobile
 powersupply
->pinephone purple-mm-sms
-purple-matrix
-purple-telegram
+#>pinephone purple-mm-sms
+#purple-matrix
+#purple-telegram
 sound-theme-phosh
 #squeekboard
 megapixels
